@@ -1,7 +1,7 @@
 ---
 title: Career Guidance and Placement Unit
 description: ''
-lastUpdated: '2024-08-04'
+lastUpdated: '2026-05-21'
 ---
 The Career Guidance & Placement Unit (CGPU) of the college is working as a team under the leadership of the Coordinator, the Committee Members of each Department and a batch of dedicated students. The students of the college are getting regular placements in many multinational companies like TCS, IBM, INFOSYS, UST GLOBAL, WIPRO, IBS, SPERIDIAN, CTS etc.
 
@@ -9,126 +9,123 @@ The CGPU sends the College brochure to the selected companies inviting them for 
 
 The Unit helps students in arranging vacation training and project work in Industries. This acts as an Industry-Institute linkage for conducting personality development and technical seminars for students. The Unit also provides soft skill training prior to the campus recruitment process. This initiates steps for getting placement in industries.
 
-## Placement Officer : 
+## Placement Officer :
 
-ANU ANTONY, 
-<br>Assistant Professor in Dept. of Electronics and Communication Engineering
-<br>Email id : uckplacement@yahoo.com, 
-Mob : +91 9447930157
-
-  
+ANU ANTONY, \
+Assistant Professor in Dept. of Electronics and Communication Engineering \
+Email id : uckplacement@yahoo.com, Mob : +91 9447930157
 
 ## Details of some of the placed students
 
 | Sl.No. | Name of Student | Department | Company | Period of Placement |
 | --- | --- | --- | --- | --- |
-| 1   | Sarika P Nair | Department of Electronics & Communication Engineering | QSPYDER | 2023-2024 |
-| 2   | Akshay Venugopal | Department of Information Technology | Zolo | 2023-2024 |
-| 3   | Aravind S Rao | Department of Information Technology | Zolo | 2023-2024 |
-| 4   | Aswin J Prakash | Department of Information Technology | SPERIDIAN | 2023-2024 |
-| 5   | K. S.Ajaighosh | Department of Information Technology | SPERIDIAN | 2023-2024 |
-|     |     |     |     |     |
-| 6   | ANISH S | Department of Electronics & Communication Engineering | Experion Technologies | 2022-23 |
-| 7   | ARCHA S MOHAN | Department of Electronics & Communication Engineering | Experion Technologies | 2022-23 |
-| 8   | RESHMI M | Department of Electronics & Communication Engineering | Experion Technologies | 2022-23 |
-| 9   | ARJUN V S | Department of Computer Science & Engineering | Quest Global | 2022-23 |
-| 10  | GRASHMA JOHN S | Department of Computer Science & Engineering | Quest Global | 2022-23 |
-| 11  | MEGHA SUKUMARAN | Department of Computer Science & Engineering | Experion Technologies | 2022-23 |
-| 12  | MERIN JOHN | Department of Computer Science & Engineering | Hornbill Labs | 2022-23 |
-| 13  | POORNIMA UNNI S | Department of Computer Science & Engineering | Survey Sparrow | 2022-23 |
-| 14  | PRANAV S R | Department of Computer Science & Engineering | Experion Technologies | 2022-23 |
-| 15  | SHAKEEL NOOH M | Department of Computer Science & Engineering | Poornam Info Vision | 2022-23 |
-| 16  | SRUTHI SUGATHAN | Department of Computer Science & Engineering | Hornbill Labs | 2022-23 |
-| 17  | VAISHNAVI M S | Department of Computer Science & Engineering | TCS | 2022-23 |
-| 18  | AKASH NANDAKUMAR KURUP | Department of Information Technology | Survey Sparrow | 2022-23 |
-| 19  | ELMA RAJU | Department of Information Technology | H & R Block | 2022-23 |
-| 20  | KARTHIKA P H | Department of Information Technology | H & R Block | 2022-23 |
-|     |     |     |     |     |
-| 21  | Anjaly R | Department of Electronics & Communication Engineering | TCS | 2021-2022 |
-| 22  | Ashna Salim | Department of Electronics & Communication Engineering | TCS | 2021-2022 |
-| 23  | Neethu M.B | Department of Electronics & Communication Engineering | TCS | 2021-2022 |
-| 24  | Abhijith S | Department of Computer Science & Engineering | TCS | 2021-2022 |
-| 25  | Abhishek Suresh | Department of Computer Science & Engineering | IBS | 2021-2022 |
-| 26  | Aswin Raj | Department of Computer Science & Engineering | TCS | 2021-2022 |
-| 27  | Aswin Raj | Department of Computer Science & Engineering | Xiaomi | 2021-2022 |
-| 28  | Bibin Panicker | Department of Computer Science & Engineering | TCS | 2021-2022 |
-| 29  | Devika C S | Department of Computer Science & Engineering | TCS | 2021-2022 |
-| 30  | Gouri Prasanth | Department of Computer Science & Engineering | TCS | 2021-2022 |
-| 31  | Hariharan G | Department of Computer Science & Engineering | TCS | 2021-2022 |
-| 32  | Leon B Samuel | Department of Computer Science & Engineering | IBS | 2021-2022 |
-| 33  | Leon B Samuel | Department of Computer Science & Engineering | IBS | 2021-2022 |
-| 34  | Sarika B Raj | Department of Computer Science & Engineering | TCS | 2021-2022 |
-| 35  | ABHISHEK R NAIR | Department of Information Technology | Techversant Infotech Pvt Ltd | 2021-2022 |
-| 36  | AKHIL V O | Department of Information Technology | UST | 2021-2022 |
-| 37  | AMINA J A | Department of Information Technology | UST | 2021-2022 |
-| 38  | ANIL BOSE | Department of Information Technology | Wiiz Business Solutions Private Limited | 2021-2022 |
-| 39  | ARJUN S AJAY | Department of Information Technology | Interland Technology Services Pvt.Ltd. | 2021-2022 |
-| 40  | BEN MANNATHARA | Department of Information Technology | Spericorn Technologies | 2021-2022 |
-| 41  | BEN MANNATHARA | Department of Information Technology | Techversant Infotech Pvt Ltd | 2021-2022 |
-| 42  | DEVIKA RAVI | Department of Information Technology | UST | 2021-2022 |
-| 43  | GAYATHRI K J | Department of Information Technology | Hexaware Technologies | 2021-2022 |
-| 44  | LEKSHMI R NAIR | Department of Information Technology | Teachnook | 2021-2022 |
-| 45  | RASHID R | Department of Information Technology | Wiiz Business Solutions Private Limited | 2021-2022 |
-| 46  | SEBAN BRIAN | Department of Information Technology | UST | 2021-2022 |
-| 47  | SIJIN S | Department of Information Technology | Wiiz Business Solutions Private Limited | 2021-2022 |
-| 48  | ABIN S | Department of Information Technology | Pits Solutions | 2021-2022 |
-|     |     |     |     |     |
-| 49  | Adarsh G | Department of Electronics & Communication Engineering | ClaySys Technologies | 2020 - 2021 |
-| 50  | Anagha A M | Department of Electronics & Communication Engineering | Qburst | 2020 - 2021 |
-| 51  | Ananthu A | Department of Electronics & Communication Engineering | ECSFIN | 2020 - 2021 |
-| 52  | Arathi A S | Department of Electronics & Communication Engineering | UST | 2020 - 2021 |
-| 53  | Arya B S | Department of Electronics & Communication Engineering | UST | 2020 - 2021 |
-| 54  | Assiya Nizar | Department of Electronics & Communication Engineering | Dcube ai | 2020 - 2021 |
-| 55  | Aswathy C S | Department of Electronics & Communication Engineering | UST | 2020 - 2021 |
-| 56  | Charupriya Menon | Department of Electronics & Communication Engineering | Labglo Technologies | 2020 - 2021 |
-| 57  | Divya James | Department of Electronics & Communication Engineering | UST | 2020 - 2021 |
-| 58  | Hari Krishnan R | Department of Electronics & Communication Engineering | ECSFIN | 2020 - 2021 |
-| 59  | Manisha M | Department of Electronics & Communication Engineering | UST | 2020 - 2021 |
-| 60  | Nandhu Krishnan | Department of Electronics & Communication Engineering | UST | 2020 - 2021 |
-| 61  | Parvathy P | Department of Electronics & Communication Engineering | Testhouse India Pvt Ltd | 2020 - 2021 |
-| 62  | Praseena P V | Department of Electronics & Communication Engineering | ECSFIN | 2020 - 2021 |
-| 63  | Vaisakh V | Department of Electronics & Communication Engineering | UST | 2020 - 2021 |
-| 64  | Aiswarya B R | Department of Computer Science & Engineering | ECS Fin Pvt Ltd | 2020 - 2021 |
-| 65  | Ajith M | Department of Computer Science & Engineering | Stablix Corporation | 2020 - 2021 |
-| 66  | Akhila S Babu | Department of Computer Science & Engineering | UST | 2020 - 2021 |
-| 67  | Akhila S Babu | Department of Computer Science & Engineering | TCS | 2020 - 2021 |
-| 68  | Akhila S Babu | Department of Computer Science & Engineering | UST | 2020 - 2021 |
-| 69  | Alma K S | Department of Computer Science & Engineering | TCS | 2020 - 2021 |
-| 70  | Amal Krishna | Department of Computer Science & Engineering | Pits Solutions | 2020 - 2021 |
-| 71  | Amalkrishna | Department of Computer Science & Engineering | Pits Solutions | 2020 - 2021 |
-| 72  | Aswathy A S | Department of Computer Science & Engineering | TCS | 2020 - 2021 |
-| 73  | Binoy C Darwin | Department of Computer Science & Engineering | Simplogics pvt Ltd | 2020 - 2021 |
-| 74  | Dheebak K | Department of Computer Science & Engineering | ARS T&TT | 2020 - 2021 |
-| 75  | Fidha Abdulkader | Department of Computer Science & Engineering | UST | 2020 - 2021 |
-| 76  | Fidha Abdulkader | Department of Computer Science & Engineering | TCS | 2020 - 2021 |
-| 77  | Fidha Abdulkader | Department of Computer Science & Engineering | UST | 2020 - 2021 |
-| 78  | Harikuttan S | Department of Computer Science & Engineering | ARS T&TT | 2020 - 2021 |
-| 79  | Pranav Raj V | Department of Computer Science & Engineering | UC Monks Pvt Ltd | 2020 - 2021 |
-| 80  | Rishikesh P Vijay | Department of Computer Science & Engineering | Simplogics pvt Ltd | 2020 - 2021 |
-| 81  | Riswana Sherin O P | Department of Computer Science & Engineering | Groware global pvt ltd | 2020 - 2021 |
-| 82  | Ruthwik P | Department of Computer Science & Engineering | KRAN Consulting | 2020 - 2021 |
-| 83  | Sarah Anna Johns | Department of Computer Science & Engineering | UST | 2020 - 2021 |
-| 84  | Sarah Anna Johns | Department of Computer Science & Engineering | Quest Global | 2020 - 2021 |
-| 85  | Sarah Anna Johns | Department of Computer Science & Engineering | UST | 2020 - 2021 |
-| 86  | Shajahan UP | Department of Computer Science & Engineering | Simplogics pvt Ltd | 2020 - 2021 |
-| 87  | Soji S Johny | Department of Computer Science & Engineering | Quest Global | 2020 - 2021 |
-| 88  | Soorya Krishna M A | Department of Computer Science & Engineering | ARS T&TT | 2020 - 2021 |
-| 89  | Srirag S | Department of Computer Science & Engineering | UC Monks Pvt Ltd | 2020 - 2021 |
-| 90  | Akshay Vijay | Department of Information Technology | Knowledge Lens | 2020 - 2021 |
-| 91  | Ananthapadmanabhan G | Department of Information Technology | Revyrie global | 2020 - 2021 |
-| 92  | Arya Prasad S | Department of Information Technology | INFOSYS | 2020 - 2021 |
-| 93  | Arya R | Department of Information Technology | Survey Sparrow | 2020 - 2021 |
-| 94  | Aswathy Balachandran | Department of Information Technology | UST | 2020 - 2021 |
-| 95  | Dheeraj V S | Department of Information Technology | Parth Infotech Solutions | 2020 - 2021 |
-| 96  | Meenu Krishna | Department of Information Technology | EY  | 2020 - 2021 |
-| 97  | Niranjana Mohan C S | Department of Information Technology | UST | 2020 - 2021 |
-| 98  | Pranav M P | Department of Information Technology | UC Monks Pvt Ltd | 2020 - 2021 |
-| 99  | Sahla V A | Department of Information Technology | INFOSYS | 2020 - 2021 |
+| 1 | Sarika P Nair | Department of Electronics & Communication Engineering | TCS | 2023-2024 |
+| 2 | Akshay Venugopal | Department of Information Technology | Zolo | 2023-2024 |
+| 3 | Aravind S Rao | Department of Information Technology | Zolo | 2023-2024 |
+| 4 | Aswin J Prakash | Department of Information Technology | SPERIDIAN | 2023-2024 |
+| 5 | K. S.Ajaighosh | Department of Information Technology | SPERIDIAN | 2023-2024 |
+|  |  |  |  |  |
+| 6 | ANISH S | Department of Electronics & Communication Engineering | Experion Technologies | 2022-23 |
+| 7 | ARCHA S MOHAN | Department of Electronics & Communication Engineering | Experion Technologies | 2022-23 |
+| 8 | RESHMI M | Department of Electronics & Communication Engineering | Experion Technologies | 2022-23 |
+| 9 | ARJUN V S | Department of Computer Science & Engineering | Quest Global | 2022-23 |
+| 10 | GRASHMA JOHN S | Department of Computer Science & Engineering | Quest Global | 2022-23 |
+| 11 | MEGHA SUKUMARAN | Department of Computer Science & Engineering | Experion Technologies | 2022-23 |
+| 12 | MERIN JOHN | Department of Computer Science & Engineering | Hornbill Labs | 2022-23 |
+| 13 | POORNIMA UNNI S | Department of Computer Science & Engineering | Survey Sparrow | 2022-23 |
+| 14 | PRANAV S R | Department of Computer Science & Engineering | Experion Technologies | 2022-23 |
+| 15 | SHAKEEL NOOH M | Department of Computer Science & Engineering | Poornam Info Vision | 2022-23 |
+| 16 | SRUTHI SUGATHAN | Department of Computer Science & Engineering | Hornbill Labs | 2022-23 |
+| 17 | VAISHNAVI M S | Department of Computer Science & Engineering | TCS | 2022-23 |
+| 18 | AKASH NANDAKUMAR KURUP | Department of Information Technology | Survey Sparrow | 2022-23 |
+| 19 | ELMA RAJU | Department of Information Technology | H & R Block | 2022-23 |
+| 20 | KARTHIKA P H | Department of Information Technology | H & R Block | 2022-23 |
+|  |  |  |  |  |
+| 21 | Anjaly R | Department of Electronics & Communication Engineering | TCS | 2021-2022 |
+| 22 | Ashna Salim | Department of Electronics & Communication Engineering | TCS | 2021-2022 |
+| 23 | Neethu M.B | Department of Electronics & Communication Engineering | TCS | 2021-2022 |
+| 24 | Abhijith S | Department of Computer Science & Engineering | TCS | 2021-2022 |
+| 25 | Abhishek Suresh | Department of Computer Science & Engineering | IBS | 2021-2022 |
+| 26 | Aswin Raj | Department of Computer Science & Engineering | TCS | 2021-2022 |
+| 27 | Aswin Raj | Department of Computer Science & Engineering | Xiaomi | 2021-2022 |
+| 28 | Bibin Panicker | Department of Computer Science & Engineering | TCS | 2021-2022 |
+| 29 | Devika C S | Department of Computer Science & Engineering | TCS | 2021-2022 |
+| 30 | Gouri Prasanth | Department of Computer Science & Engineering | TCS | 2021-2022 |
+| 31 | Hariharan G | Department of Computer Science & Engineering | TCS | 2021-2022 |
+| 32 | Leon B Samuel | Department of Computer Science & Engineering | IBS | 2021-2022 |
+| 33 | Leon B Samuel | Department of Computer Science & Engineering | IBS | 2021-2022 |
+| 34 | Sarika B Raj | Department of Computer Science & Engineering | TCS | 2021-2022 |
+| 35 | ABHISHEK R NAIR | Department of Information Technology | Techversant Infotech Pvt Ltd | 2021-2022 |
+| 36 | AKHIL V O | Department of Information Technology | UST | 2021-2022 |
+| 37 | AMINA J A | Department of Information Technology | UST | 2021-2022 |
+| 38 | ANIL BOSE | Department of Information Technology | Wiiz Business Solutions Private Limited | 2021-2022 |
+| 39 | ARJUN S AJAY | Department of Information Technology | Interland Technology Services Pvt.Ltd. | 2021-2022 |
+| 40 | BEN MANNATHARA | Department of Information Technology | Spericorn Technologies | 2021-2022 |
+| 41 | BEN MANNATHARA | Department of Information Technology | Techversant Infotech Pvt Ltd | 2021-2022 |
+| 42 | DEVIKA RAVI | Department of Information Technology | UST | 2021-2022 |
+| 43 | GAYATHRI K J | Department of Information Technology | Hexaware Technologies | 2021-2022 |
+| 44 | LEKSHMI R NAIR | Department of Information Technology | Teachnook | 2021-2022 |
+| 45 | RASHID R | Department of Information Technology | Wiiz Business Solutions Private Limited | 2021-2022 |
+| 46 | SEBAN BRIAN | Department of Information Technology | UST | 2021-2022 |
+| 47 | SIJIN S | Department of Information Technology | Wiiz Business Solutions Private Limited | 2021-2022 |
+| 48 | ABIN S | Department of Information Technology | Pits Solutions | 2021-2022 |
+|  |  |  |  |  |
+| 49 | Adarsh G | Department of Electronics & Communication Engineering | ClaySys Technologies | 2020 - 2021 |
+| 50 | Anagha A M | Department of Electronics & Communication Engineering | Qburst | 2020 - 2021 |
+| 51 | Ananthu A | Department of Electronics & Communication Engineering | ECSFIN | 2020 - 2021 |
+| 52 | Arathi A S | Department of Electronics & Communication Engineering | UST | 2020 - 2021 |
+| 53 | Arya B S | Department of Electronics & Communication Engineering | UST | 2020 - 2021 |
+| 54 | Assiya Nizar | Department of Electronics & Communication Engineering | Dcube ai | 2020 - 2021 |
+| 55 | Aswathy C S | Department of Electronics & Communication Engineering | UST | 2020 - 2021 |
+| 56 | Charupriya Menon | Department of Electronics & Communication Engineering | Labglo Technologies | 2020 - 2021 |
+| 57 | Divya James | Department of Electronics & Communication Engineering | UST | 2020 - 2021 |
+| 58 | Hari Krishnan R | Department of Electronics & Communication Engineering | ECSFIN | 2020 - 2021 |
+| 59 | Manisha M | Department of Electronics & Communication Engineering | UST | 2020 - 2021 |
+| 60 | Nandhu Krishnan | Department of Electronics & Communication Engineering | UST | 2020 - 2021 |
+| 61 | Parvathy P | Department of Electronics & Communication Engineering | Testhouse India Pvt Ltd | 2020 - 2021 |
+| 62 | Praseena P V | Department of Electronics & Communication Engineering | ECSFIN | 2020 - 2021 |
+| 63 | Vaisakh V | Department of Electronics & Communication Engineering | UST | 2020 - 2021 |
+| 64 | Aiswarya B R | Department of Computer Science & Engineering | ECS Fin Pvt Ltd | 2020 - 2021 |
+| 65 | Ajith M | Department of Computer Science & Engineering | Stablix Corporation | 2020 - 2021 |
+| 66 | Akhila S Babu | Department of Computer Science & Engineering | UST | 2020 - 2021 |
+| 67 | Akhila S Babu | Department of Computer Science & Engineering | TCS | 2020 - 2021 |
+| 68 | Akhila S Babu | Department of Computer Science & Engineering | UST | 2020 - 2021 |
+| 69 | Alma K S | Department of Computer Science & Engineering | TCS | 2020 - 2021 |
+| 70 | Amal Krishna | Department of Computer Science & Engineering | Pits Solutions | 2020 - 2021 |
+| 71 | Amalkrishna | Department of Computer Science & Engineering | Pits Solutions | 2020 - 2021 |
+| 72 | Aswathy A S | Department of Computer Science & Engineering | TCS | 2020 - 2021 |
+| 73 | Binoy C Darwin | Department of Computer Science & Engineering | Simplogics pvt Ltd | 2020 - 2021 |
+| 74 | Dheebak K | Department of Computer Science & Engineering | ARS T&TT | 2020 - 2021 |
+| 75 | Fidha Abdulkader | Department of Computer Science & Engineering | UST | 2020 - 2021 |
+| 76 | Fidha Abdulkader | Department of Computer Science & Engineering | TCS | 2020 - 2021 |
+| 77 | Fidha Abdulkader | Department of Computer Science & Engineering | UST | 2020 - 2021 |
+| 78 | Harikuttan S | Department of Computer Science & Engineering | ARS T&TT | 2020 - 2021 |
+| 79 | Pranav Raj V | Department of Computer Science & Engineering | UC Monks Pvt Ltd | 2020 - 2021 |
+| 80 | Rishikesh P Vijay | Department of Computer Science & Engineering | Simplogics pvt Ltd | 2020 - 2021 |
+| 81 | Riswana Sherin O P | Department of Computer Science & Engineering | Groware global pvt ltd | 2020 - 2021 |
+| 82 | Ruthwik P | Department of Computer Science & Engineering | KRAN Consulting | 2020 - 2021 |
+| 83 | Sarah Anna Johns | Department of Computer Science & Engineering | UST | 2020 - 2021 |
+| 84 | Sarah Anna Johns | Department of Computer Science & Engineering | Quest Global | 2020 - 2021 |
+| 85 | Sarah Anna Johns | Department of Computer Science & Engineering | UST | 2020 - 2021 |
+| 86 | Shajahan UP | Department of Computer Science & Engineering | Simplogics pvt Ltd | 2020 - 2021 |
+| 87 | Soji S Johny | Department of Computer Science & Engineering | Quest Global | 2020 - 2021 |
+| 88 | Soorya Krishna M A | Department of Computer Science & Engineering | ARS T&TT | 2020 - 2021 |
+| 89 | Srirag S | Department of Computer Science & Engineering | UC Monks Pvt Ltd | 2020 - 2021 |
+| 90 | Akshay Vijay | Department of Information Technology | Knowledge Lens | 2020 - 2021 |
+| 91 | Ananthapadmanabhan G | Department of Information Technology | Revyrie global | 2020 - 2021 |
+| 92 | Arya Prasad S | Department of Information Technology | INFOSYS | 2020 - 2021 |
+| 93 | Arya R | Department of Information Technology | Survey Sparrow | 2020 - 2021 |
+| 94 | Aswathy Balachandran | Department of Information Technology | UST | 2020 - 2021 |
+| 95 | Dheeraj V S | Department of Information Technology | Parth Infotech Solutions | 2020 - 2021 |
+| 96 | Meenu Krishna | Department of Information Technology | EY | 2020 - 2021 |
+| 97 | Niranjana Mohan C S | Department of Information Technology | UST | 2020 - 2021 |
+| 98 | Pranav M P | Department of Information Technology | UC Monks Pvt Ltd | 2020 - 2021 |
+| 99 | Sahla V A | Department of Information Technology | INFOSYS | 2020 - 2021 |
 | 100 | Sahla V A | Department of Information Technology | UST | 2020 - 2021 |
 | 101 | Shahida S | Department of Information Technology | INFOSYS | 2020 - 2021 |
 | 102 | Shivadarsh | Department of Information Technology | UST | 2020 - 2021 |
 | 103 | Sreelekshmi S S | Department of Information Technology | UST | 2020 - 2021 |
-|     |     |     |     |     |
+|  |  |  |  |  |
 | 104 | Ajan M.J | Department of Electronics & Communication Engineering | IBM | 2019 - 2020 |
 | 105 | Archana P.J | Department of Electronics & Communication Engineering | Quest Global | 2019 - 2020 |
 | 106 | Arya Prem PL | Department of Electronics & Communication Engineering | UST | 2019 - 2020 |
@@ -145,7 +142,7 @@ Mob : +91 9447930157
 | 117 | Reshma S | Department of Information Technology | Regional Cancer Centre, TVM | 2019 - 2020 |
 | 118 | Sona Chandran | Department of Information Technology | TCS | 2019 - 2020 |
 | 119 | Vishnupriya L | Department of Information Technology | TCS | 2019 - 2020 |
-|     |     |     |     |     |
+|  |  |  |  |  |
 | 120 | Arjun | Department of Electronics & Communication Engineering | Galore Networks | 2018 - 2019 |
 | 121 | Akshay | Department of Computer Science & Engineering | SPERIDIAN | 2018 - 2019 |
 | 122 | Amal Babu | Department of Information Technology | ECESIS Technologies | 2018 - 2019 |
@@ -163,7 +160,7 @@ Mob : +91 9447930157
 | 134 | Amal S Nair | Department of Computer Science & Engineering | ITC INFOTEC | 2018 - 2019 |
 | 135 | Surya S | Department of Information Technology | Quadance Technologies | 2018 - 2019 |
 | 136 | Chembakam N S | Department of Electronics & Communication Engineering | UST Global | 2018 - 2019 |
-| 137 | Amina A S | Department of Computer Science & Engineering | EY  | 2018 - 2019 |
+| 137 | Amina A S | Department of Computer Science & Engineering | EY | 2018 - 2019 |
 | 138 | Arunima Y | Department of Information Technology | Seqato Software Solutions | 2018 - 2019 |
 | 139 | Soumya Lakshmi | Department of Electronics & Communication Engineering | UST Global | 2018 - 2019 |
 | 140 | Arathy R | Department of Computer Science & Engineering | WIPRO | 2018 - 2019 |
@@ -174,7 +171,7 @@ Mob : +91 9447930157
 | 145 | Sooraj S | Department of Information Technology | Distinct Infotech Solutions | 2018 - 2019 |
 | 146 | Sudin S | Department of Electronics & Communication Engineering | Pits Solutions | 2018 - 2019 |
 | 147 | Chinchu P Nair | Department of Computer Science & Engineering | Allianz Technology | 2018 - 2019 |
-| 148 | Krishna | Department of Electronics & Communication Engineering | EY  | 2018 - 2019 |
+| 148 | Krishna | Department of Electronics & Communication Engineering | EY | 2018 - 2019 |
 | 149 | Jahan J | Department of Computer Science & Engineering | MOBILEXION TECH PVT LTD | 2018 - 2019 |
 | 150 | Abhiram | Department of Electronics & Communication Engineering | TCS | 2018 - 2019 |
 | 151 | Jayadev H | Department of Computer Science & Engineering | WEBENTIAL | 2018 - 2019 |
@@ -191,7 +188,7 @@ Mob : +91 9447930157
 | 162 | U S Ananthakrishnan | Department of Computer Science & Engineering | TCS | 2018 - 2019 |
 | 163 | Vignesh Gopan | Department of Computer Science & Engineering | TCS | 2018 - 2019 |
 | 164 | Sinin B | Department of Computer Science & Engineering | ECSFIN | 2018 - 2019 |
-|     |     |     |     |     |
+|  |  |  |  |  |
 | 165 | Abhilash A | Department of Information Technology | Assure Tech Business Solutions | 2017 - 2018 |
 | 166 | Tesly Titus | Department of Information Technology | Acsia Technologies | 2017 - 2018 |
 | 167 | Sikha S Kumar | Department of Information Technology | Xilligence | 2017 - 2018 |
@@ -238,7 +235,7 @@ Mob : +91 9447930157
 | 208 | Ajmal Noushad | Department of Computer Science & Engineering | TCS | 2017 - 2018 |
 | 209 | Jijo J | Department of Computer Science & Engineering | INFOVIEW | 2017 - 2018 |
 | 210 | Aneesh | Department of Computer Science & Engineering | Mozanta Technologies | 2017 - 2018 |
-|     |     |     |     |     |
+|  |  |  |  |  |
 | 211 | KRISHNA RAMESH | Department of Electronics & Communication Engineering | TCS | 2016 - 2017 |
 | 212 | SOORAJ M S | Department of Electronics & Communication Engineering | TCS | 2016 - 2017 |
 | 213 | SREELEKSHMI A | Department of Electronics & Communication Engineering | TCS | 2016 - 2017 |
@@ -292,7 +289,7 @@ Mob : +91 9447930157
 | 261 | Swaroop S | Department of Computer Science & Engineering | Neologix software solutions | 2016 - 2017 |
 | 262 | Govind M | Department of Computer Science & Engineering | Aarna Analytics | 2016 - 2017 |
 | 263 | Nithin Mohan | Department of Computer Science & Engineering | Entree App | 2016 - 2017 |
-|     |     |     |     |     |
+|  |  |  |  |  |
 | 264 | Anantha Krishnan K V | Department of Electronics & Communication Engineering | TCS | 2015 - 2016 |
 | 265 | Ananthu Prakash | Department of Electronics & Communication Engineering | TCS | 2015 - 2016 |
 | 266 | Aparna Rajendran | Department of Electronics & Communication Engineering | TCS | 2015 - 2016 |
@@ -309,13 +306,13 @@ Mob : +91 9447930157
 | 277 | Laya S | Department of Computer Science & Engineering | TCS | 2015 - 2016 |
 | 278 | Nithin Mohan A | Department of Computer Science & Engineering | TCS | 2015 - 2016 |
 | 279 | Selmi J R | Department of Computer Science & Engineering | TCS | 2015 - 2016 |
-| 280 | Sruthy Uduppa | Department of Computer Science & Engineering |     | 2015 - 2016 |
+| 280 | Sruthy Uduppa | Department of Computer Science & Engineering |  | 2015 - 2016 |
 | 281 | Swathy P K | Department of Computer Science & Engineering | UST Global | 2015 - 2016 |
 | 282 | Vishnu M Premkumar | Department of Computer Science & Engineering | TCS | 2015 - 2016 |
 | 283 | Aparna Aidith | Department of Information Technology | TCS | 2015 - 2016 |
 | 284 | Gopika G R | Department of Information Technology | Allianz Technology | 2015 - 2016 |
 | 285 | Neethu R S | Department of Information Technology | TCS | 2015 - 2016 |
-| 286 | SaiGayathri | Department of Information Technology |     | 2015 - 2016 |
+| 286 | SaiGayathri | Department of Information Technology |  | 2015 - 2016 |
 | 287 | Tinkle J J | Department of Information Technology | TCS | 2015 - 2016 |
 | 288 | Ananthu Prakash | Department of Electronics & Communication Engineering | TCS | 2015 - 2016 |
 | 289 | Chrisy Joseph | Department of Electronics & Communication Engineering | TCS | 2015 - 2016 |
@@ -358,7 +355,7 @@ Mob : +91 9447930157
 | 326 | Sreena E | Department of Computer Science & Engineering | TCS | 2015 - 2016 |
 | 327 | Sreethu L Kumar | Department of Computer Science & Engineering | UST Global | 2015 - 2016 |
 | 328 | Sumesh Chandran | Department of Computer Science & Engineering | SAP Labs | 2015 - 2016 |
-| 329 | Vignesh M | Department of Computer Science & Engineering | EY  | 2015 - 2016 |
+| 329 | Vignesh M | Department of Computer Science & Engineering | EY | 2015 - 2016 |
 | 330 | Vipin P R | Department of Computer Science & Engineering | Allianz Technology | 2015 - 2016 |
-|     |     |     |     |     |
-| 331 | VISHNUPRIYA L | Department of Information Technology |     |     |
+|  |  |  |  |  |
+| 331 | VISHNUPRIYA L | Department of Information Technology |  |  |
