@@ -61,17 +61,6 @@ To express interest in future vacancies for B.Tech admission under the NRI quota
 Based on KEAM 2026
 
 <div class="closing-ranks-table" markdown="block">
-<<<<<<< HEAD
-=======
-
-| Department | SM | MG |
-| --- | --- | --- |
-| Computer Science & Engineering | \- | \- |
-| Electronics & Communication Engineering | \- | \- |
-| Information Technology | \- | \- |
-
-</div>
->>>>>>> 40bd9a6 (Changed the admission details)
 
 | Department | SM | MG |
 | --- | --- | --- |
