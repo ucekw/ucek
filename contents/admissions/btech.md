@@ -1,7 +1,7 @@
 ---
 title: Admissions (B.Tech)
 description: ''
-lastUpdated: '2026-05-19'
+lastUpdated: '2026-05-23'
 ---
 ## Regular Admissions
 
@@ -50,7 +50,7 @@ Other fees like placement fee, Office fee & PTA fee are needed to be paid separa
 
 To express interest in future vacancies for B.Tech admission under the NRI quota, please submit the enclosed form. When vacancies arise, the admission process will be conducted in accordance with the NRI prospectus guidelines.
 
-₹100/- should be paid at University Cash Counter (Kariavattom) and the challan should be brought along with the application.
+₹100/- should be paid at University Cash Counter (Kariavattom) and the challan should be brought along with the application.
 
 [Registration Form for B.Tech degree courses under NRI quota.](https://docs.google.com/forms/d/e/1FAIpQLSdrUTSeeNzymiQ2yyiUoYLxSdUUl_SLgU3H7dTWwbPRant1WQ/viewform)
 
@@ -58,15 +58,19 @@ To express interest in future vacancies for B.Tech admission under the NRI quota
 
 ## Closing Ranks
 
-Based on KEAM 2025 - Allotment Phase 3.
+Based on KEAM 2026
 
-|  | SM | MG | EW | FW | EZ | MU | BH | LA | DV | VK | BX | SC | KU | KN | ST |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Computer Science & Engineering | 27658 | 49437 | 36550 | 14323 | 39428 | 35056 | 31297 | 52055 | 63621 | 34575 | 36633 | 57293 | 66016 | 39219 | \- |
-| Electronics & Communication Engineering | 29244 | 55988 | 63824 | 16413 | 44093 | 54775 | 42328 | 57273 | \- | \- | \- | 62548 | \- | \- | \- |
-| Information Technology | 67015 | \- | \- | 32173 | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- |
+<div class="closing-ranks-table" markdown="block">
 
-SM - State Merit, MG - Management
+| Department | SM | MG |
+| --- | --- | --- |
+| Computer Science & Engineering | \- | \- |
+| Electronics & Communication Engineering | \- | \- |
+| Information Technology | \- | \- |
+
+</div>
+
+SM - State Merit, MG - Management   
 
 ## Fee Structure
 
