@@ -85,9 +85,7 @@ export function getImgLink(link: string) {
     return '/placeholder.svg';
   }
 
-  // Try multiple Google Drive formats to ensure compatibility
-  // Use direct view format which works better for public images
-  return `https://drive.google.com/uc?export=view&id=${fileId}`;
+  return `https://lh3.googleusercontent.com/d/${fileId}`;
 }
 
 export function getCarouselImages(n = "10"): Promise<string[][]> {
