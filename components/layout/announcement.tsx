@@ -1,5 +1,6 @@
 "use client";
 import React, { use, useEffect, useState } from "react";
+import Image from "next/image";
 import { ExpandableCard } from "../ui/expandable-card";
 import { getAnnouncements, getImgLink } from "@/lib/data";
 import { BellOff, BellPlus, BookUser, CalendarDays, ScrollText, TreePalm, TriangleAlert } from "lucide-react";
@@ -54,8 +55,8 @@ const Announcement = () => {
 
   return (<>
     {popup && <Popup image={popup}/>}
-    <div className="flex flex-col md:flex-row bg-white w-full h-auto md:h-[65vh] justify-center items-center gap-8 md:gap-40 p-8 md:p-20 space-y-8 md:space-y-0">
-      <div className=" flex-col items-center">
+    <div className="flex flex-col md:flex-row bg-white w-full h-auto justify-center items-center md:items-start gap-8 md:gap-12 p-8 md:p-20 space-y-8 md:space-y-0 max-w-6xl mx-auto">
+      <div className="w-full md:w-[40%] flex flex-col items-start">
         <h2 className="text-xl md:text-2xl font-bold flex items-center mb-6">
           <span className="w-2 h-6 bg-blue-500 mr-2"></span> Announcements
         </h2>
@@ -65,7 +66,18 @@ const Announcement = () => {
         </div>
       </div>
 
-      <div className="w-full md:w-1/2 mt-4 md:mt-0 rounded md:p-8">
+      <div className="w-full md:w-[60%] mt-4 md:mt-0 rounded md:p-8">
+        <div className="w-full mb-4 md:mb-6 md:hidden">
+          <Image
+            src="/img/admission.jpeg"
+            alt="UCEK admissions poster"
+            width={1200}
+            height={800}
+            sizes="(max-width: 768px) 100vw, 50vw"
+            className="w-full h-auto rounded-md shadow-sm"
+            priority
+          />
+        </div>
         <p className="text-justify text-sm md:text-base lg:text-lg">
           The college was established in the year 2000 and is functioning in the
           Golden Jubilee Complex of the Kerala University in the Kariavattom
