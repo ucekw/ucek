@@ -83,7 +83,7 @@ export default async function Post({
             faculties.map((faculty, index) => (
               <div className="flex" key={`id-${index}`}>
                 <Image
-                  src={getImgLink(faculty[3])}
+                  src={getImgLink(faculty[4])}
                   width={150}
                   height={150}
                   alt={faculty[0]}
@@ -92,10 +92,15 @@ export default async function Post({
                 <div className="ml-5">
                   <h1 className="text-xl font-bold">{faculty[0]}</h1>
                   <p className="text-sm">{faculty[1]}</p>
-                  {params.id == "gen" && <p className="text-sm text-gray-700 mt-1">{faculty[4]}</p>}
+                  {params.id == "gen" && <p className="text-sm text-gray-700 mt-1">{faculty[5]}</p>}
                   <p className=" text-sm mt-2 text-gray-500">
                     Qualification: {faculty[2]}
                   </p>
+                  {faculty[3] && (
+                    <p className="text-sm mt-2 text-gray-500">
+                      Experience: {faculty[3]}
+                    </p>
+                  )}
                 </div>
               </div>
             ))}
@@ -140,6 +145,6 @@ function getFacultyDetais(id: string): Promise<string[][]> {
     "https://docs.google.com/spreadsheets/d/" +
     FACULTY_SHEET_ID +
     `/gviz/tq?tqx=out:csv&sheet=${id}&tq=` +
-    encodeURIComponent(`select C, D, E, F${id == "gen" ? ", G" : ""}`)
+    encodeURIComponent(`select C, D, E, F, G${id == "gen" ? ", H" : ""}`)
   return getData(url);
 }
