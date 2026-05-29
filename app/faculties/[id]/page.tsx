@@ -16,6 +16,8 @@ import Papa from "papaparse";
 
 const contentDir = path.join(process.cwd(), "contents");
 
+export const revalidate = 60;
+
 export async function generateStaticParams() {
   return [{ id: "cse" }, { id: "ece" }, { id: "it" }, { id: "gen" }];
 }
