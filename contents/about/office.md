@@ -1,7 +1,7 @@
 ---
 title: Office
 description: ''
-lastUpdated: '2026-05-27'
+lastUpdated: '2026-05-29'
 ---
 The Administrative Office of University College of Engineering works under the direct supervision of Kerala university and consists of Assistant Registrar, Administrative Officer and a Senior Grade Assistant. All matters related to staff and students of the college are processed and maintained here.
 
@@ -22,10 +22,9 @@ The Administrative Office of University College of Engineering works under the d
 
 | **#** | **Name of Staff** | **Designation** | **Contact Number** |
 | --- | --- | --- | --- |
-| 1 | K.P.Mini | Assistant Registrar |  |
-| 2 | Sheeja Kumari. T | Administrative Officer |  |
+| 1 | Anees M A | Assistant Registrar |  |
+| 2 | Bobby Raj S S | Section Officer |  |
 | 3 | Saritha B | Office Superintendent |  |
-| 4 | Athira K R | Assistant |  |
-| 5 | Anu Prasad J | Assistant |  |
-| 6 | Sheeba Aman | Assistant |  |
-| 7 | Revathy P.M | Assistant |  |
+| 4 | Sheeba Aman | Assistant |  |
+| 5 | Abdul Rahim Abdual Hameed | Assistant |  |
+| 6 | Silpa S | Assistant |  |
