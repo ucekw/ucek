@@ -3,7 +3,7 @@
 import { useEffect } from "react";
 import { useRouter } from "next/navigation";
 
-import { ExternalLink, Images, Bell, Users } from "lucide-react";
+import { ExternalLink, Images, Bell, Users, Camera, Calendar } from "lucide-react";
 
 export default function DashboardHome() {
   const router = useRouter();
@@ -25,6 +25,22 @@ export default function DashboardHome() {
       icon: Bell,
       color: "text-blue-600",
       bg: "bg-blue-100"
+    },
+    {
+      title: "Gallery Images",
+      description: "Add new images to the college photo gallery.",
+      url: process.env.NEXT_PUBLIC_GOOGLE_FORM_GALLERY || "#",
+      icon: Camera,
+      color: "text-pink-600",
+      bg: "bg-pink-100"
+    },
+    {
+      title: "Events",
+      description: "Add new upcoming events and announcements.",
+      url: process.env.NEXT_PUBLIC_GOOGLE_FORM_EVENTS || "#",
+      icon: Calendar,
+      color: "text-orange-600",
+      bg: "bg-orange-100"
     }
   ];
 
