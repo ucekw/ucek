@@ -14,6 +14,7 @@ import rehypeRaw from "rehype-raw";
 import Link from "next/link";
 import { LinkIcon } from "lucide-react";
 import { notFound } from "next/navigation";
+import matter from "gray-matter";
 
 const contentDir = path.join(process.cwd(), "contents");
 
@@ -21,6 +22,9 @@ export async function generateStaticParams() {
   const sections = fs.readdirSync(contentDir);
 
   const paths = sections.flatMap((section) => {
+    if (section == "metadata.json") return [];
+    const dirPath = path.join(contentDir, section);
+    if (!fs.statSync(dirPath).isDirectory()) return [];
     return {
       section: section,
     };
@@ -61,7 +65,7 @@ const getArticle = ({ section }: { section: string }) => {
   let title, contents;
 
   try {
-    const files = fs.readdirSync(path.join(contentDir, section));
+    const files = fs.readdirSync(path.join(contentDir, section)).filter(f => f.endsWith(".md"));
     title =
       (section == "departments" && "Departments") ||
       (section == "about" && "About") ||
@@ -72,9 +76,10 @@ const getArticle = ({ section }: { section: string }) => {
     contents = files.map((file) => {
       const filePath = path.join(contentDir, section, file);
       const fileContent = fs.readFileSync(filePath, "utf8");
+      const { data } = matter(fileContent);
       return {
         link: file.replace(".md", ""),
-        title: fileContent.split("\n")[0],
+        title: data.title || fileContent.split("\n")[0].replace(/^#\s*/, ""),
       };
     });
   } catch (e) {
