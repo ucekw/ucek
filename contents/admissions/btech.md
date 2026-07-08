@@ -1,7 +1,7 @@
 ---
 title: Admissions (B.Tech)
 description: ''
-lastUpdated: '2026-05-23'
+lastUpdated: '2026-07-08'
 ---
 ## Regular Admissions
 
@@ -11,7 +11,7 @@ Admission to Merit and Management Quotas are done by CEE through KEAM.
 
 **Document To Be Submitted At The College During Admission:**
 
-1.⁠ ⁠Allotment Memo (Second or third phase)
+1.⁠ ⁠Allotment Memo (Second phase)
 
 2.⁠ ⁠Data Sheet
 
@@ -23,9 +23,9 @@ Admission to Merit and Management Quotas are done by CEE through KEAM.
 
 6.⁠ ⁠Course And Conduct Certificate (Original)
 
-7.⁠ ⁠Physical Fitness Certificate
+7.⁠ ⁠Physical Fitness Certificate(From Medical Officer,Govt Hospital) 
 
-8.⁠ ⁠Migration certificate (Original/Digilocker)
+8.⁠ ⁠Migration certificate (Original/Digilocker)-Mandatory for all board exams except Kerala State Board.
 
 9.⁠ ⁠Caste certificate - mandatory for reserved category students.
 
@@ -60,17 +60,13 @@ To express interest in future vacancies for B.Tech admission under the NRI quota
 
 Based on KEAM 2026
 
-<div class="closing-ranks-table" markdown="block">
-
 | Department | SM | MG |
 | --- | --- | --- |
 | Computer Science & Engineering | \- | \- |
 | Electronics & Communication Engineering | \- | \- |
 | Information Technology | \- | \- |
 
-</div>
-
-SM - State Merit, MG - Management   
+SM - State Merit, MG - Management
 
 ## Fee Structure
 
