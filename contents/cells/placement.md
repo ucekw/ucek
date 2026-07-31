@@ -1,7 +1,7 @@
 ---
 title: Career Guidance and Placement Unit
 description: ''
-lastUpdated: '2026-05-23'
+lastUpdated: '2026-07-31'
 ---
 The Career Guidance & Placement Unit (CGPU) of the college is working as a team under the leadership of the Coordinator, the Committee Members of each Department and a batch of dedicated students. The students of the college are getting regular placements in many multinational companies like TCS, IBM, INFOSYS, UST GLOBAL, WIPRO, IBS, SPERIDIAN, CTS etc.
 
@@ -42,7 +42,7 @@ Email id : uckplacement@yahoo.com, Mob : +91 9447930157
 | 21 | Aravind S Rao | Department of Information Technology | Zolo | 2023-2024 |
 | 22 | Aswin J Prakash | Department of Information Technology | SPERIDIAN | 2023-2024 |
 | 23 | K. S.Ajaighosh | Department of Information Technology | SPERIDIAN | 2023-2024 |
-|     |     |     |     |     |
+|  |  |  |  |  |
 | 24 | ANISH S | Department of Electronics & Communication Engineering | Experion Technologies | 2022-23 |
 | 25 | ARCHA S MOHAN | Department of Electronics & Communication Engineering | Experion Technologies | 2022-23 |
 | 26 | RESHMI M | Department of Electronics & Communication Engineering | Experion Technologies | 2022-23 |
@@ -58,7 +58,7 @@ Email id : uckplacement@yahoo.com, Mob : +91 9447930157
 | 36 | AKASH NANDAKUMAR KURUP | Department of Information Technology | Survey Sparrow | 2022-23 |
 | 37 | ELMA RAJU | Department of Information Technology | H & R Block | 2022-23 |
 | 38 | KARTHIKA P H | Department of Information Technology | H & R Block | 2022-23 |
-|     |     |     |     |     |
+|  |  |  |  |  |
 | 39 | Anjaly R | Department of Electronics & Communication Engineering | TCS | 2021-2022 |
 | 40 | Ashna Salim | Department of Electronics & Communication Engineering | TCS | 2021-2022 |
 | 41 | Neethu M.B | Department of Electronics & Communication Engineering | TCS | 2021-2022 |
@@ -87,7 +87,7 @@ Email id : uckplacement@yahoo.com, Mob : +91 9447930157
 | 64 | SEBAN BRIAN | Department of Information Technology | UST | 2021-2022 |
 | 65 | SIJIN S | Department of Information Technology | Wiiz Business Solutions Private Limited | 2021-2022 |
 | 66 | ABIN S | Department of Information Technology | Pits Solutions | 2021-2022 |
-|     |     |     |     |     |
+|  |  |  |  |  |
 | 67 | Adarsh G | Department of Electronics & Communication Engineering | ClaySys Technologies | 2020 - 2021 |
 | 68 | Anagha A M | Department of Electronics & Communication Engineering | Qburst | 2020 - 2021 |
 | 69 | Ananthu A | Department of Electronics & Communication Engineering | ECSFIN | 2020 - 2021 |
@@ -135,7 +135,7 @@ Email id : uckplacement@yahoo.com, Mob : +91 9447930157
 | 111 | Arya R | Department of Information Technology | Survey Sparrow | 2020 - 2021 |
 | 112 | Aswathy Balachandran | Department of Information Technology | UST | 2020 - 2021 |
 | 113 | Dheeraj V S | Department of Information Technology | Parth Infotech Solutions | 2020 - 2021 |
-| 114 | Meenu Krishna | Department of Information Technology | EY  | 2020 - 2021 |
+| 114 | Meenu Krishna | Department of Information Technology | EY | 2020 - 2021 |
 | 115 | Niranjana Mohan C S | Department of Information Technology | UST | 2020 - 2021 |
 | 116 | Pranav M P | Department of Information Technology | UC Monks Pvt Ltd | 2020 - 2021 |
 | 117 | Sahla V A | Department of Information Technology | INFOSYS | 2020 - 2021 |
@@ -143,7 +143,7 @@ Email id : uckplacement@yahoo.com, Mob : +91 9447930157
 | 119 | Shahida S | Department of Information Technology | INFOSYS | 2020 - 2021 |
 | 120 | Shivadarsh | Department of Information Technology | UST | 2020 - 2021 |
 | 121 | Sreelekshmi S S | Department of Information Technology | UST | 2020 - 2021 |
-|     |     |     |     |     |
+|  |  |  |  |  |
 | 122 | Ajan M.J | Department of Electronics & Communication Engineering | IBM | 2019 - 2020 |
 | 123 | Archana P.J | Department of Electronics & Communication Engineering | Quest Global | 2019 - 2020 |
 | 124 | Arya Prem PL | Department of Electronics & Communication Engineering | UST | 2019 - 2020 |
@@ -160,7 +160,7 @@ Email id : uckplacement@yahoo.com, Mob : +91 9447930157
 | 135 | Reshma S | Department of Information Technology | Regional Cancer Centre, TVM | 2019 - 2020 |
 | 136 | Sona Chandran | Department of Information Technology | TCS | 2019 - 2020 |
 | 137 | Vishnupriya L | Department of Information Technology | TCS | 2019 - 2020 |
-|     |     |     |     |     |
+|  |  |  |  |  |
 | 138 | Arjun | Department of Electronics & Communication Engineering | Galore Networks | 2018 - 2019 |
 | 139 | Akshay | Department of Computer Science & Engineering | SPERIDIAN | 2018 - 2019 |
 | 140 | Amal Babu | Department of Information Technology | ECESIS Technologies | 2018 - 2019 |
@@ -178,7 +178,7 @@ Email id : uckplacement@yahoo.com, Mob : +91 9447930157
 | 152 | Amal S Nair | Department of Computer Science & Engineering | ITC INFOTEC | 2018 - 2019 |
 | 153 | Surya S | Department of Information Technology | Quadance Technologies | 2018 - 2019 |
 | 154 | Chembakam N S | Department of Electronics & Communication Engineering | UST Global | 2018 - 2019 |
-| 155 | Amina A S | Department of Computer Science & Engineering | EY  | 2018 - 2019 |
+| 155 | Amina A S | Department of Computer Science & Engineering | EY | 2018 - 2019 |
 | 156 | Arunima Y | Department of Information Technology | Seqato Software Solutions | 2018 - 2019 |
 | 157 | Soumya Lakshmi | Department of Electronics & Communication Engineering | UST Global | 2018 - 2019 |
 | 158 | Arathy R | Department of Computer Science & Engineering | WIPRO | 2018 - 2019 |
@@ -189,7 +189,7 @@ Email id : uckplacement@yahoo.com, Mob : +91 9447930157
 | 163 | Sooraj S | Department of Information Technology | Distinct Infotech Solutions | 2018 - 2019 |
 | 164 | Sudin S | Department of Electronics & Communication Engineering | Pits Solutions | 2018 - 2019 |
 | 165 | Chinchu P Nair | Department of Computer Science & Engineering | Allianz Technology | 2018 - 2019 |
-| 166 | Krishna | Department of Electronics & Communication Engineering | EY  | 2018 - 2019 |
+| 166 | Krishna | Department of Electronics & Communication Engineering | EY | 2018 - 2019 |
 | 167 | Jahan J | Department of Computer Science & Engineering | MOBILEXION TECH PVT LTD | 2018 - 2019 |
 | 168 | Abhiram | Department of Electronics & Communication Engineering | TCS | 2018 - 2019 |
 | 169 | Jayadev H | Department of Computer Science & Engineering | WEBENTIAL | 2018 - 2019 |
@@ -206,7 +206,7 @@ Email id : uckplacement@yahoo.com, Mob : +91 9447930157
 | 180 | U S Ananthakrishnan | Department of Computer Science & Engineering | TCS | 2018 - 2019 |
 | 181 | Vignesh Gopan | Department of Computer Science & Engineering | TCS | 2018 - 2019 |
 | 182 | Sinin B | Department of Computer Science & Engineering | ECSFIN | 2018 - 2019 |
-|     |     |     |     |     |
+|  |  |  |  |  |
 | 183 | Abhilash A | Department of Information Technology | Assure Tech Business Solutions | 2017 - 2018 |
 | 184 | Tesly Titus | Department of Information Technology | Acsia Technologies | 2017 - 2018 |
 | 185 | Sikha S Kumar | Department of Information Technology | Xilligence | 2017 - 2018 |
@@ -253,7 +253,7 @@ Email id : uckplacement@yahoo.com, Mob : +91 9447930157
 | 226 | Ajmal Noushad | Department of Computer Science & Engineering | TCS | 2017 - 2018 |
 | 227 | Jijo J | Department of Computer Science & Engineering | INFOVIEW | 2017 - 2018 |
 | 228 | Aneesh | Department of Computer Science & Engineering | Mozanta Technologies | 2017 - 2018 |
-|     |     |     |     |     |
+|  |  |  |  |  |
 | 229 | KRISHNA RAMESH | Department of Electronics & Communication Engineering | TCS | 2016 - 2017 |
 | 230 | SOORAJ M S | Department of Electronics & Communication Engineering | TCS | 2016 - 2017 |
 | 231 | SREELEKSHMI A | Department of Electronics & Communication Engineering | TCS | 2016 - 2017 |
@@ -307,7 +307,7 @@ Email id : uckplacement@yahoo.com, Mob : +91 9447930157
 | 279 | Swaroop S | Department of Computer Science & Engineering | Neologix software solutions | 2016 - 2017 |
 | 280 | Govind M | Department of Computer Science & Engineering | Aarna Analytics | 2016 - 2017 |
 | 281 | Nithin Mohan | Department of Computer Science & Engineering | Entree App | 2016 - 2017 |
-|     |     |     |     |     |
+|  |  |  |  |  |
 | 282 | Anantha Krishnan K V | Department of Electronics & Communication Engineering | TCS | 2015 - 2016 |
 | 283 | Ananthu Prakash | Department of Electronics & Communication Engineering | TCS | 2015 - 2016 |
 | 284 | Aparna Rajendran | Department of Electronics & Communication Engineering | TCS | 2015 - 2016 |
@@ -324,13 +324,13 @@ Email id : uckplacement@yahoo.com, Mob : +91 9447930157
 | 295 | Laya S | Department of Computer Science & Engineering | TCS | 2015 - 2016 |
 | 296 | Nithin Mohan A | Department of Computer Science & Engineering | TCS | 2015 - 2016 |
 | 297 | Selmi J R | Department of Computer Science & Engineering | TCS | 2015 - 2016 |
-| 298 | Sruthy Uduppa | Department of Computer Science & Engineering |     | 2015 - 2016 |
+| 298 | Sruthy Uduppa | Department of Computer Science & Engineering |  | 2015 - 2016 |
 | 299 | Swathy P K | Department of Computer Science & Engineering | UST Global | 2015 - 2016 |
 | 300 | Vishnu M Premkumar | Department of Computer Science & Engineering | TCS | 2015 - 2016 |
 | 301 | Aparna Aidith | Department of Information Technology | TCS | 2015 - 2016 |
 | 302 | Gopika G R | Department of Information Technology | Allianz Technology | 2015 - 2016 |
 | 303 | Neethu R S | Department of Information Technology | TCS | 2015 - 2016 |
-| 304 | SaiGayathri | Department of Information Technology |     | 2015 - 2016 |
+| 304 | SaiGayathri | Department of Information Technology |  | 2015 - 2016 |
 | 305 | Tinkle J J | Department of Information Technology | TCS | 2015 - 2016 |
 | 306 | Ananthu Prakash | Department of Electronics & Communication Engineering | TCS | 2015 - 2016 |
 | 307 | Chrisy Joseph | Department of Electronics & Communication Engineering | TCS | 2015 - 2016 |
@@ -373,7 +373,7 @@ Email id : uckplacement@yahoo.com, Mob : +91 9447930157
 | 344 | Sreena E | Department of Computer Science & Engineering | TCS | 2015 - 2016 |
 | 345 | Sreethu L Kumar | Department of Computer Science & Engineering | UST Global | 2015 - 2016 |
 | 346 | Sumesh Chandran | Department of Computer Science & Engineering | SAP Labs | 2015 - 2016 |
-| 347 | Vignesh M | Department of Computer Science & Engineering | EY  | 2015 - 2016 |
+| 347 | Vignesh M | Department of Computer Science & Engineering | EY | 2015 - 2016 |
 | 348 | Vipin P R | Department of Computer Science & Engineering | Allianz Technology | 2015 - 2016 |
-|     |     |     |     |     |
-| 349 | VISHNUPRIYA L | Department of Information Technology |     |     |
+|  |  |  |  |  |
+| 349 | VISHNUPRIYA L | Department of Information Technology |  |  |
