@@ -80,11 +80,3 @@ A large number of developmental programs have been taken up under of patronage o
 [Download Annual Report 2019-20](https://uck.ac.in/cells/images/pta19-20.docx)
 
 [Download Audit Report 2024-25](https://drive.google.com/file/d/1Aw9WH5Irmiy52S-SVDhsq07bABS75Kgw/view?usp=drive_link)
-
-# Image Gallery
-
-- Image1
-- Image2
-- Image3
-- Image4
-- Image5
