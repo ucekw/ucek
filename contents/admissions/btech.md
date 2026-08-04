@@ -35,8 +35,6 @@ Admission to Merit and Management Quotas are done by CEE through KEAM.
 
 **If the students have any reservations, submit all relevant certificates too.**
 
-[Request Letter format for obtaining TC through an authorised representative.](https://drive.google.com/file/d/1wDUS4zbBFlhgnFlVfsG8K_No9FySeefa/view)
-
 ## NRI Admissions
 
 No Entrance test is required for getting admission to BTech course under NRI Quota Eligibility: Candidates who have passed the Higher secondary Examination or Equivalent with 45% marks in Mathematics, Physics and Chemistry put together.
@@ -53,10 +51,6 @@ Other fees like placement fee, Office fee & PTA fee are needed to be paid separa
 To express interest in future vacancies for B.Tech admission under the NRI quota, please submit the enclosed form. When vacancies arise, the admission process will be conducted in accordance with the NRI prospectus guidelines.
 
 ₹100/- should be paid at University Cash Counter (Kariavattom) and the challan should be brought along with the application.
-
-[Registration Form for B.Tech degree courses under NRI quota.](https://docs.google.com/forms/d/e/1FAIpQLSdrUTSeeNzymiQ2yyiUoYLxSdUUl_SLgU3H7dTWwbPRant1WQ/viewform)
-
-[Download Application Form for admission to B.Tech degree courses under NRI quota.](/docs/nriadm.pdf)
 
 ## Closing Ranks
 
@@ -99,3 +93,9 @@ SM - State Merit, MG - Management
 - If you are not looking for a higher option then PTA fee and placement fee must be paid at the time of admission itself. Otherwise PTA and placement fee can be paid on the date of commencement of regular classes.
 
 - Please be noted that PTA, placement and office fee must be paid in cash only and is required to remit the exact amount (including changes).
+
+## Forms/ Document Downloads
+
+- [Request Letter format for obtaining TC through an authorised representative.](https://drive.google.com/file/d/1wDUS4zbBFlhgnFlVfsG8K_No9FySeefa/view)
+- [Application Form for admission to B.Tech degree courses under NRI quota.](/docs/nriadm.pdf)
+- [Registration Form for B.Tech degree courses under NRI quota.](https://docs.google.com/forms/d/e/1FAIpQLSdrUTSeeNzymiQ2yyiUoYLxSdUUl_SLgU3H7dTWwbPRant1WQ/viewform)
