@@ -35,6 +35,8 @@ Admission to Merit and Management Quotas are done by CEE through KEAM.
 
 **If the students have any reservations, submit all relevant certificates too.**
 
+[Request Letter format for obtaining TC through an authorised representative.](https://drive.google.com/file/d/1wDUS4zbBFlhgnFlVfsG8K_No9FySeefa/view)
+
 ## NRI Admissions
 
 No Entrance test is required for getting admission to BTech course under NRI Quota Eligibility: Candidates who have passed the Higher secondary Examination or Equivalent with 45% marks in Mathematics, Physics and Chemistry put together.
