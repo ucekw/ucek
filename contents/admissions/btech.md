@@ -1,7 +1,7 @@
 ---
 title: Admissions (B.Tech)
 description: ''
-lastUpdated: '2026-08-04'
+lastUpdated: '2026-08-13'
 ---
 ## Regular Admissions
 
@@ -96,6 +96,7 @@ SM - State Merit, MG - Management
 
 ## Forms/ Document Downloads
 
+- [Spot Admission Rank List - ECE, IT & CSE (13 Aug 2026)](https://drive.google.com/file/d/1AmJvTWEqLUXvA3fCbRx0ks92RjBYNDcn/view?usp=drivesdk)
 - [Request Letter format for obtaining TC through an authorised representative.](https://drive.google.com/file/d/1wDUS4zbBFlhgnFlVfsG8K_No9FySeefa/view)
 - [Application Form for admission to B.Tech degree courses under NRI quota.](/docs/nriadm.pdf)
 - [Registration Form for B.Tech degree courses under NRI quota.](https://docs.google.com/forms/d/e/1FAIpQLSdrUTSeeNzymiQ2yyiUoYLxSdUUl_SLgU3H7dTWwbPRant1WQ/viewform)
